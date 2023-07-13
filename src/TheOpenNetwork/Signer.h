@@ -23,6 +23,10 @@ public:
     /// Creates a signed transfer message
     static Data createTransferMessage(std::shared_ptr<Wallet> wallet, const PrivateKey& privateKey, const Proto::Transfer& transfer);
 
+    static Data createSimpleTransferMessage(std::shared_ptr<Wallet> wallet, const PrivateKey& privateKey, const Proto::SimpleTransfer& transfer);
+
+    static Data createJettonTransferMessage(std::shared_ptr<Wallet> wallet, const PrivateKey& privateKey, const Proto::JettonTransfer& transfer);
+
     /// Signs a Proto::SigningInput transaction
     static Proto::SigningOutput sign(const Proto::SigningInput& input) noexcept;
 };

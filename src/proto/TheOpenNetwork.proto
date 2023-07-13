@@ -55,6 +55,63 @@ message Transfer {
     bool bounceable = 8;
 }
 
+message WalletTransferData {
+    // Wallet version
+    WalletVersion wallet_version = 1;
+
+    // Recipient address
+    string dest = 2;
+
+    // Amount to send in nanotons
+    uint64 amount = 3;
+
+    // Message counter (optional, 0 by default used for the first deploy)
+    // This field is required, because we need to protect the smart contract against "replay attacks"
+    // Learn more: https://ton.org/docs/develop/smart-contracts/guidelines/external-messages
+    uint32 sequence_number = 4;
+
+    // Send mode (optional, 0 by default)
+    // Learn more: https://ton.org/docs/develop/func/stdlib#send_raw_message
+    uint32 mode = 5;
+
+    // Expiration UNIX timestamp (optional, now() + 60 by default)
+    uint32 expire_at = 6;
+
+    // If the address is bounceable
+    bool bounceable = 8;
+}
+
+// same as transfer, but uses WalletTransferData
+message SimpleTransfer {
+    WalletTransferData wallet_transfer_data = 1;
+
+    // Transfer comment message (optional, empty by default)
+    string comment = 2;
+}
+
+message JettonTransfer {
+    // dest in WalletTransferData means contract address of sender's jetton wallet
+    WalletTransferData wallet_transfer_data = 1;
+
+    // Arbitrary request number. Deafult is 0. Optional field.
+    uint64 query_id = 2;
+
+    // Amount of transferred jettons in elementary integer units. The real value transferred is jetton_amount multiplied by ten to the power of token decimal precision
+    uint64 jetton_amount = 3;
+
+    // Address of the new owner of the jettons.
+    string to_owner = 4;
+
+    // Address where to send a response with confirmation of a successful transfer and the rest of the incoming message Toncoins. Usually the sender should get back their toncoins.
+    string response_address = 5;
+
+    // Transfer comment message (optional, empty by default)
+    string comment = 6;
+
+    // Amount in nanotons to forward to recipient. Basically minimum amount - 1 nanoton should be used
+    uint64 forward_amount = 7;
+}
+
 message SigningInput {
     // The secret private key used for signing (32 bytes).
     bytes private_key = 1;
@@ -62,6 +119,8 @@ message SigningInput {
     // The payload transfer
     oneof action_oneof {
         Transfer transfer = 2;
+        SimpleTransfer simple_transfer = 3;
+        JettonTransfer jetton_transfer = 4;
     }
 }
 
