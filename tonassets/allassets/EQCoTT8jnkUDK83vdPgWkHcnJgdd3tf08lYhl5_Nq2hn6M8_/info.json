@@ -1,0 +1,11 @@
+{
+    "address": "EQCoTT8jnkUDK83vdPgWkHcnJgdd3tf08lYhl5_Nq2hn6M8_",
+    "name": "Megaton LP WTON-oMESH",
+    "type": "TEP74",
+    "symbol": "MGLP",
+    "decimals": "9",
+    "description": "Liquidity Pool Tokens on Megaton Finance",
+    "status": "active",
+    "explorer": "https://tonscan.org/jetton/EQCoTT8jnkUDK83vdPgWkHcnJgdd3tf08lYhl5_Nq2hn6M8_",
+    "id": "EQCoTT8jnkUDK83vdPgWkHcnJgdd3tf08lYhl5_Nq2hn6M8_"
+}

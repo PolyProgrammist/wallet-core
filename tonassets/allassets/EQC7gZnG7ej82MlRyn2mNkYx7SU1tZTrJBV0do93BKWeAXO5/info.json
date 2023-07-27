@@ -1,0 +1,11 @@
+{
+    "address": "EQC7gZnG7ej82MlRyn2mNkYx7SU1tZTrJBV0do93BKWeAXO5",
+    "name": "TON Chess pass",
+    "type": "TEP74",
+    "symbol": "UKWN",
+    "decimals": "0",
+    "description": "This pass is an entrance ticket to the TON Chess tournament.",
+    "status": "active",
+    "explorer": "https://tonscan.org/jetton/EQC7gZnG7ej82MlRyn2mNkYx7SU1tZTrJBV0do93BKWeAXO5",
+    "id": "EQC7gZnG7ej82MlRyn2mNkYx7SU1tZTrJBV0do93BKWeAXO5"
+}

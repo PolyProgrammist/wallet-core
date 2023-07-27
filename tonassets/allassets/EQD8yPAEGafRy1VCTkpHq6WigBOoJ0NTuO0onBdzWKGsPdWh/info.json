@@ -1,0 +1,11 @@
+{
+    "address": "EQD8yPAEGafRy1VCTkpHq6WigBOoJ0NTuO0onBdzWKGsPdWh",
+    "name": "Orbit Bridge Ton Klaymeta Token",
+    "type": "TEP74",
+    "symbol": "META",
+    "decimals": "18",
+    "description": "Orbit Bridge Token on TON blockchain!",
+    "status": "active",
+    "explorer": "https://tonscan.org/jetton/EQD8yPAEGafRy1VCTkpHq6WigBOoJ0NTuO0onBdzWKGsPdWh",
+    "id": "EQD8yPAEGafRy1VCTkpHq6WigBOoJ0NTuO0onBdzWKGsPdWh"
+}

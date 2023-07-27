@@ -1,0 +1,11 @@
+{
+    "address": "EQA7fKcmzBdDKP8F7cI7SfDo48V9V7giHF-WW2ayQC2ExhjN",
+    "name": "Megaton LP oETH-oUSDC",
+    "type": "TEP74",
+    "symbol": "MGLP",
+    "decimals": "18",
+    "description": "Liquidity Pool Tokens on Megaton Finance",
+    "status": "active",
+    "explorer": "https://tonscan.org/jetton/EQA7fKcmzBdDKP8F7cI7SfDo48V9V7giHF-WW2ayQC2ExhjN",
+    "id": "EQA7fKcmzBdDKP8F7cI7SfDo48V9V7giHF-WW2ayQC2ExhjN"
+}

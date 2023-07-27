@@ -1,0 +1,11 @@
+{
+    "address": "EQDEcJlTPBymzUqOJ15QR44vIlPIHhsWllrIafWpPdeHiuNR",
+    "name": "Donation",
+    "type": "TEP74",
+    "symbol": "DON",
+    "decimals": "9",
+    "description": "Is a gift for charity, humanitarian aid, or to benefit a cause.",
+    "status": "active",
+    "explorer": "https://tonscan.org/jetton/EQDEcJlTPBymzUqOJ15QR44vIlPIHhsWllrIafWpPdeHiuNR",
+    "id": "EQDEcJlTPBymzUqOJ15QR44vIlPIHhsWllrIafWpPdeHiuNR"
+}

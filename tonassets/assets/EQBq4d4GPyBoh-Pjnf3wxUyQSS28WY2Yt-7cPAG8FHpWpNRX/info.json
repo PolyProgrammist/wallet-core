@@ -1,0 +1,11 @@
+{
+    "address": "EQBq4d4GPyBoh-Pjnf3wxUyQSS28WY2Yt-7cPAG8FHpWpNRX",
+    "name": "Orbit Bridge Ton Matic Token",
+    "type": "TEP74",
+    "symbol": "oMATIC",
+    "decimals": "18",
+    "description": "Orbit Bridge Token on TON blockchain!",
+    "status": "active",
+    "explorer": "https://tonscan.org/jetton/EQBq4d4GPyBoh-Pjnf3wxUyQSS28WY2Yt-7cPAG8FHpWpNRX",
+    "id": "EQBq4d4GPyBoh-Pjnf3wxUyQSS28WY2Yt-7cPAG8FHpWpNRX"
+}

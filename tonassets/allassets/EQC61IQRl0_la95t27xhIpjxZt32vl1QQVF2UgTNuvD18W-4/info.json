@@ -1,0 +1,11 @@
+{
+    "address": "EQC61IQRl0_la95t27xhIpjxZt32vl1QQVF2UgTNuvD18W-4",
+    "name": "Orbit Bridge Ton USD Coin",
+    "type": "TEP74",
+    "symbol": "oUSDC",
+    "decimals": "6",
+    "description": "Orbit Bridge Token on TON blockchain!",
+    "status": "active",
+    "explorer": "https://tonscan.org/jetton/EQC61IQRl0_la95t27xhIpjxZt32vl1QQVF2UgTNuvD18W-4",
+    "id": "EQC61IQRl0_la95t27xhIpjxZt32vl1QQVF2UgTNuvD18W-4"
+}

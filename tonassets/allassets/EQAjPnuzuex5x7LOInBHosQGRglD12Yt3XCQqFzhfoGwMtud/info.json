@@ -1,0 +1,11 @@
+{
+    "address": "EQAjPnuzuex5x7LOInBHosQGRglD12Yt3XCQqFzhfoGwMtud",
+    "name": "LP Token for FNZ-AMBR",
+    "type": "TEP74",
+    "symbol": "FNZ-AMBR LP",
+    "decimals": "9",
+    "description": "Liquidity pool token for Fanzee Token and Ambra on STON.fi DEX",
+    "status": "active",
+    "explorer": "https://tonscan.org/jetton/EQAjPnuzuex5x7LOInBHosQGRglD12Yt3XCQqFzhfoGwMtud",
+    "id": "EQAjPnuzuex5x7LOInBHosQGRglD12Yt3XCQqFzhfoGwMtud"
+}

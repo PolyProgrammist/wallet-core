@@ -1,0 +1,11 @@
+{
+    "address": "EQCajaUU1XXSAjTD-xOV7pE49fGtg4q8kF3ELCOJtGvQFQ2C",
+    "name": "Wrapped TON",
+    "type": "TEP74",
+    "symbol": "WTON",
+    "decimals": "9",
+    "description": "Wrapped TON Coin",
+    "status": "active",
+    "explorer": "https://tonscan.org/jetton/EQCajaUU1XXSAjTD-xOV7pE49fGtg4q8kF3ELCOJtGvQFQ2C",
+    "id": "EQCajaUU1XXSAjTD-xOV7pE49fGtg4q8kF3ELCOJtGvQFQ2C"
+}

@@ -1,0 +1,11 @@
+{
+    "address": "EQBMt2OAFb8z54InP5ZJsCcxEOoVHdSLgXuDAFftO4dW0bUk",
+    "name": "LP Token for BOLT-WTON",
+    "type": "TEP74",
+    "symbol": "BOLT-WTON LP",
+    "decimals": "9",
+    "description": "Liquidity pool token for Huebel Bolt and WTON on STON.fi DEX",
+    "status": "active",
+    "explorer": "https://tonscan.org/jetton/EQBMt2OAFb8z54InP5ZJsCcxEOoVHdSLgXuDAFftO4dW0bUk",
+    "id": "EQBMt2OAFb8z54InP5ZJsCcxEOoVHdSLgXuDAFftO4dW0bUk"
+}

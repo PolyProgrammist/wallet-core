@@ -1,0 +1,11 @@
+{
+    "address": "EQAxqVqB72Qvvm7RBwfddcfwrc01O_tJSl1LV0RS0ugnuB_x",
+    "name": "LP Token for oETH-oUSDC",
+    "type": "TEP74",
+    "symbol": "oETH-oUSDC LP",
+    "decimals": "9",
+    "description": "Liquidity pool token for Orbit Bridge Ton Ethereum and Orbit Bridge Ton USD Coin on STON.fi DEX",
+    "status": "active",
+    "explorer": "https://tonscan.org/jetton/EQAxqVqB72Qvvm7RBwfddcfwrc01O_tJSl1LV0RS0ugnuB_x",
+    "id": "EQAxqVqB72Qvvm7RBwfddcfwrc01O_tJSl1LV0RS0ugnuB_x"
+}

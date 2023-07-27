@@ -1,0 +1,11 @@
+{
+    "address": "EQBUF9AVG-Gi8a5scsawOrkjV4-rJf_1Ou_xJJpF0_QdYvos",
+    "name": "LP Token for TGR-oETH",
+    "type": "TEP74",
+    "symbol": "TGR-oETH LP",
+    "decimals": "9",
+    "description": "Liquidity pool token for Tegro and Orbit Bridge Ton Ethereum on STON.fi DEX",
+    "status": "active",
+    "explorer": "https://tonscan.org/jetton/EQBUF9AVG-Gi8a5scsawOrkjV4-rJf_1Ou_xJJpF0_QdYvos",
+    "id": "EQBUF9AVG-Gi8a5scsawOrkjV4-rJf_1Ou_xJJpF0_QdYvos"
+}

@@ -1,0 +1,11 @@
+{
+    "address": "EQDV5kSfyCL_qAyRDIiKPfAbsydIwA0OIqmhzmWDvhshqb_K",
+    "name": "LP Token for WTON-oUSDC",
+    "type": "TEP74",
+    "symbol": "WTON-oUSDC LP",
+    "decimals": "9",
+    "description": "Liquidity pool token for WTON and Orbit Bridge Ton USD Coin on STON.fi DEX",
+    "status": "active",
+    "explorer": "https://tonscan.org/jetton/EQDV5kSfyCL_qAyRDIiKPfAbsydIwA0OIqmhzmWDvhshqb_K",
+    "id": "EQDV5kSfyCL_qAyRDIiKPfAbsydIwA0OIqmhzmWDvhshqb_K"
+}

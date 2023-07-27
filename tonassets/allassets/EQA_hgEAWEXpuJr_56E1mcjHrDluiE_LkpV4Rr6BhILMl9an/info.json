@@ -1,0 +1,11 @@
+{
+    "address": "EQA_hgEAWEXpuJr_56E1mcjHrDluiE_LkpV4Rr6BhILMl9an",
+    "name": "LP Token for AMBR-oUSDC",
+    "type": "TEP74",
+    "symbol": "AMBR-oUSDC LP",
+    "decimals": "9",
+    "description": "Liquidity pool token for Ambra and Orbit Bridge Ton USD Coin on STON.fi DEX",
+    "status": "active",
+    "explorer": "https://tonscan.org/jetton/EQA_hgEAWEXpuJr_56E1mcjHrDluiE_LkpV4Rr6BhILMl9an",
+    "id": "EQA_hgEAWEXpuJr_56E1mcjHrDluiE_LkpV4Rr6BhILMl9an"
+}

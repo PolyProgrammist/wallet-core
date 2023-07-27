@@ -1,0 +1,11 @@
+{
+    "address": "EQDJQu579uI4-bBBbZdEjFCpeTyGl9OGxMbwgcRxKUqAtLKS",
+    "name": "LP Token for oETH-AMBR",
+    "type": "TEP74",
+    "symbol": "oETH-AMBR LP",
+    "decimals": "9",
+    "description": "Liquidity pool token for Orbit Bridge Ton Ethereum and Ambra on STON.fi DEX",
+    "status": "active",
+    "explorer": "https://tonscan.org/jetton/EQDJQu579uI4-bBBbZdEjFCpeTyGl9OGxMbwgcRxKUqAtLKS",
+    "id": "EQDJQu579uI4-bBBbZdEjFCpeTyGl9OGxMbwgcRxKUqAtLKS"
+}

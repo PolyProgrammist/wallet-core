@@ -1,0 +1,11 @@
+{
+    "address": "EQAUq00P5H32WeJ7U4LNvV2mEgESXP2YbWFWsv4jOCggZnUv",
+    "name": "LP Token for oUSDT-FNZ",
+    "type": "TEP74",
+    "symbol": "oUSDT-FNZ LP",
+    "decimals": "9",
+    "description": "Liquidity pool token for Orbit Bridge Ton USD Tether and Fanzee Token on STON.fi DEX",
+    "status": "active",
+    "explorer": "https://tonscan.org/jetton/EQAUq00P5H32WeJ7U4LNvV2mEgESXP2YbWFWsv4jOCggZnUv",
+    "id": "EQAUq00P5H32WeJ7U4LNvV2mEgESXP2YbWFWsv4jOCggZnUv"
+}

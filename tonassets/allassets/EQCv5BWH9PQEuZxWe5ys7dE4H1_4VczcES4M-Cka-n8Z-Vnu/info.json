@@ -1,0 +1,11 @@
+{
+    "address": "EQCv5BWH9PQEuZxWe5ys7dE4H1_4VczcES4M-Cka-n8Z-Vnu",
+    "name": "LP Token for WTON-AMBR",
+    "type": "TEP74",
+    "symbol": "WTON-AMBR LP",
+    "decimals": "9",
+    "description": "Liquidity pool token for WTON and Ambra on STON.fi DEX",
+    "status": "active",
+    "explorer": "https://tonscan.org/jetton/EQCv5BWH9PQEuZxWe5ys7dE4H1_4VczcES4M-Cka-n8Z-Vnu",
+    "id": "EQCv5BWH9PQEuZxWe5ys7dE4H1_4VczcES4M-Cka-n8Z-Vnu"
+}

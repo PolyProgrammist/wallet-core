@@ -1,0 +1,26 @@
+{
+    "address": "EQBl3gg6AAdjgjO2ZoNU5Q5EzUIl8XMNZrix8Z5dJmkHUfxI",
+    "name": "Lavandos",
+    "type": "TEP74",
+    "symbol": "LAVE",
+    "decimals": "9",
+    "description": "This is a universal token for use in all areas of the decentralized Internet in the TON blockchain, web3, Telegram channels, TON sites, Tonkeeper. Issue of 4.6 billion coins. Telegram channels: Englishversion: @lave_eng \u0420\u0443\u0441\u0441\u043a\u043e\u044f\u0437\u044b\u0447\u043d\u0430\u044f \u0432\u0435\u0440\u0441\u0438\u044f: @lavetoken, @lavefoundation versi\u00f3n en espa\u00f1ol: @lave_esp, www.lavetoken.com",
+    "status": "active",
+    "explorer": "https://tonscan.org/jetton/EQBl3gg6AAdjgjO2ZoNU5Q5EzUIl8XMNZrix8Z5dJmkHUfxI",
+    "id": "EQBl3gg6AAdjgjO2ZoNU5Q5EzUIl8XMNZrix8Z5dJmkHUfxI",
+    "website": "https://t.me/lavetoken",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/laveteam"
+        },
+        {
+            "name": "telegram_news",
+            "url": "https://t.me/lavefoundation"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/lave_token"
+        }
+    ]
+}

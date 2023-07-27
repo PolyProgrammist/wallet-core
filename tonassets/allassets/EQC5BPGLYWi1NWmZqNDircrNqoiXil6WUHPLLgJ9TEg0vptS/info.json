@@ -1,0 +1,11 @@
+{
+    "address": "EQC5BPGLYWi1NWmZqNDircrNqoiXil6WUHPLLgJ9TEg0vptS",
+    "name": "LP Token for FNZ-WTON",
+    "type": "TEP74",
+    "symbol": "FNZ-WTON LP",
+    "decimals": "9",
+    "description": "Liquidity pool token for Fanzee Token and Wrapped TON on STON.fi DEX",
+    "status": "active",
+    "explorer": "https://tonscan.org/jetton/EQC5BPGLYWi1NWmZqNDircrNqoiXil6WUHPLLgJ9TEg0vptS",
+    "id": "EQC5BPGLYWi1NWmZqNDircrNqoiXil6WUHPLLgJ9TEg0vptS"
+}

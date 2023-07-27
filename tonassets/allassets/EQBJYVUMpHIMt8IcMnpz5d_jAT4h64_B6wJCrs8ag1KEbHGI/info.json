@@ -1,0 +1,11 @@
+{
+    "address": "EQBJYVUMpHIMt8IcMnpz5d_jAT4h64_B6wJCrs8ag1KEbHGI",
+    "name": "Supply Pack",
+    "type": "TEP74",
+    "symbol": "UKWN",
+    "decimals": "0",
+    "description": "Supply Pack contains a certain amount of supply that can be used in the Escape from Zeya game!",
+    "status": "active",
+    "explorer": "https://tonscan.org/jetton/EQBJYVUMpHIMt8IcMnpz5d_jAT4h64_B6wJCrs8ag1KEbHGI",
+    "id": "EQBJYVUMpHIMt8IcMnpz5d_jAT4h64_B6wJCrs8ag1KEbHGI"
+}

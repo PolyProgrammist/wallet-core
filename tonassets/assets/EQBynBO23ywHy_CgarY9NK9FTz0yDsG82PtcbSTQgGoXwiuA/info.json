@@ -1,0 +1,11 @@
+{
+    "address": "EQBynBO23ywHy_CgarY9NK9FTz0yDsG82PtcbSTQgGoXwiuA",
+    "name": "jUSDT",
+    "type": "TEP74",
+    "symbol": "jUSDT",
+    "decimals": "6",
+    "description": "USDT transferred from Ethereum via bridge.ton.org. Token address in Ethereum: 0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "status": "active",
+    "explorer": "https://tonscan.org/jetton/EQBynBO23ywHy_CgarY9NK9FTz0yDsG82PtcbSTQgGoXwiuA",
+    "id": "EQBynBO23ywHy_CgarY9NK9FTz0yDsG82PtcbSTQgGoXwiuA"
+}

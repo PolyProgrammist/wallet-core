@@ -1,0 +1,10 @@
+{
+    "address": "EQBPAVa6fjMigxsnHF33UQ3auufVrg2Z8lBZTY9R-isfjIFr",
+    "name": "Wrapped TON",
+    "type": "TEP74",
+    "symbol": "JTON",
+    "decimals": "9",
+    "status": "active",
+    "explorer": "https://tonscan.org/jetton/EQBPAVa6fjMigxsnHF33UQ3auufVrg2Z8lBZTY9R-isfjIFr",
+    "id": "EQBPAVa6fjMigxsnHF33UQ3auufVrg2Z8lBZTY9R-isfjIFr"
+}
